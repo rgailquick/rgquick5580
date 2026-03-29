@@ -5264,7 +5264,6 @@ function asArray(value) {
 </script>
 
 </head>
-<body style="background-color: white;">
 <div id="htmlwidget_container">
   <div class="leaflet html-widget html-fill-item" id="htmlwidget-5d248c5b997d637b8243" style="width:100%;height:400px;"></div>
 </div>
