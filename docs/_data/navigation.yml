@@ -53,8 +53,6 @@ sidebar:
       - title: "Proposal"
         url: /final-project/proposal/
       - title: "Data Overview"
-        url: /final-project/data-overview/
-      - title: "Final Project Process"
-        url: /final-project/process/
-      - title: "Final Project Dashboards"
-        url: /final-project/dashboards/
+        url: /final-project/data/
+      - title: "Final Project Embed"
+        url: docs/final-project/final_project/
