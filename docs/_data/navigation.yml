@@ -13,10 +13,6 @@ sidebar:
     url: /about/
   - title: "Tasks"
     children:
-      - title: "2a QGIS PDF"
-        url: docs/assets/files/ex2a/
-      - title: "2a QGIS JPG"
-        url: docs/assets/images/ex2a/
       - title: "2b OSM Embed"
         url: /tasks/2b-osm/
       - title: "3a Tableau Embed 1"
