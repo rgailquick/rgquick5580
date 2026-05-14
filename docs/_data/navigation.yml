@@ -14,9 +14,9 @@ sidebar:
   - title: "Tasks"
     children:
       - title: "2a QGIS PDF"
-        url: docs/assets/files/ex2a.pdf/
+        url: docs/assets/files/ex2a/
       - title: "2a QGIS JPG"
-        url: docs/assets/images/ex2a.jpeg/
+        url: docs/assets/images/ex2a/
       - title: "2b OSM Embed"
         url: /tasks/2b-osm/
       - title: "3a Tableau Embed 1"
@@ -25,13 +25,6 @@ sidebar:
         url: /tasks/3a-tableau-embed2/
       - title: "3a Tableau Embed 3"
         url: /tasks/3a-tableau-embed3/
-
-  - title: "Exercises"
-    children:
-      - title: "2a"
-        url: /exercises/2a/
-      - title: "3a"
-        url: /exercises/3a/
 
   - title: "Assignments"
     children:
