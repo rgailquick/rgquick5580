@@ -44,6 +44,6 @@ sidebar:
   - title: "Final Project"
     children:
       - title: "Proposal"
-        url: final-project/Project Proposal/
+        url: final-project/Project_Proposal/
       - title: "Final Project Embed"
         url: docs/final-project/final_project/
